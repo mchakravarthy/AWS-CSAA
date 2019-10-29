@@ -2,8 +2,9 @@
 All the documents and files on AWS CSAA certification
 
 #File Contents
-IAM documents
-EC2 instances
+Sample test questions
+
 
 #Credits
+Amazon AWS 
 A cloud guru
